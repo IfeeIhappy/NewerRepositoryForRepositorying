@@ -25,7 +25,7 @@ These repositories are setup when you deploy an instance.
 ## Deployment
 
 [![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/IfeeIhappy/NewerRepositoryForRepositorying)
-[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://github.com/IfeeIhappy/NewerRepositoryForRepositorying/wiki/Run-on-Replit)
+[![Run on Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/IfeeIhappy/NewerRepositoryForRepositorying)
 [![Deploy on Railway](https://binbashbanana.github.io/deploy-buttons/buttons/remade/railway.svg)](https://github.com/IfeeIhappy/NewerRepositoryForRepositorying/wiki/Deploy-on-Railway)
 [![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/IfeeIhappy/NewerRepositoryForRepositorying)
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://github.com/IfeeIhappy/NewerRepositoryForRepositorying/wiki/Deploy-to-Koyeb)
